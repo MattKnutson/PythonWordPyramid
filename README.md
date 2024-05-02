@@ -1,1 +1,1 @@
-# PythonWordPyramid
+This is a simple Python program that manipulates a text file and displays a decoded message. Each line of the text file is seperated into it's corresponding number and word using the white-space inbetween the data. The number variables are then arranged into a pyramid structure and the words associated with the edges of the pyramid are stored. A list is then populated using these words and a hidden message is displayed to the user.
